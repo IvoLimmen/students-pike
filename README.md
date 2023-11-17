@@ -24,6 +24,9 @@ The good:
 The bad:
 
   * Documentation is not very clear on all the basics.   
+  * Not all pages are available in the tutorial.
+  * Documentation actually contains "FIXME:" in red.
+  * Could not figure out how to display float when calculating an average. Kept getting errors.
 
 The ugly:
 
